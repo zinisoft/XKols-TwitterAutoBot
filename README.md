@@ -3,6 +3,7 @@ NodeJs X (Twitter) Bot that automates several actions on Twitter, such as view, 
 
 WORK ONLY ON WINDOWS 10,11 64bit. 
 TOOL FREE AND DO NOT REQUIRE ANY PERMISSIONs FROM YOUR ACCOUNT.
+
 **HOW IT WORKS**
 - Register an account on XKOLS Network https://xkols.com, each account on XKOLS network must be matched with username account on X (Twitter).
 Eg: Your twitter acccount is: https://twitter.com/exampleusername, so the usename on XKOLS you have to register is: exampleusername.
@@ -16,7 +17,7 @@ Eg: Your twitter acccount is: https://twitter.com/exampleusername, so the usenam
 - Step 2: Open downloaded file, double click to start installing NodeJS.
 
 **INSALL APPLICATION**:
-Checkout source code XKols-TwitterAutoBot
+- Checkout source code XKols-TwitterAutoBot
 - Step 1: Click INSTALL_CLIENT_APP.bat to install all libraries and wait until finish, the terminal will close automatically.
 - Step 2: Rename file config.json.example to config.json, go to line: X_USERNAME: "X_ACCOUNT", replace your X (Twitter) account X_ACCOUNT by username of X (Twitter). Eg: your twitter acccount is: https://twitter.com/exampleusername, so you have to edit line 08: "X_USERNAME": "exampleusername".
 - Step 3: Click file START_CLIENT_APP.bat to run app, you will see a black screen (terminal), do not stop terminal when running auto bot.
@@ -28,12 +29,13 @@ Checkout source code XKols-TwitterAutoBot
 - When you need to close app, press Ctrl + C, the message: "Terminate batch job (Y/N)?" will appear, type "y" > Enter to close.
 
 **Q&A**
-Q. How many way to earn points?
-A. Tip 1: You can earn point by open XKOLS_TOOLS.BAT and auto view, like for other tweet, The longer you run the tool, the more points you earn.
-   Tip 2: Use your affiate link to share with your friend to earn point.  
-   Tip 3: Go to the GOLDEN TABLE (Most important) to interact with other members on XKOLS NETWORK to enhance engagement point.
-Q. How can I find my activity history?
-A: Check: https://xkols.com/network-activities/
+- Q: How many way to earn points?
+- A: 
+- Tip 1: You can earn point by open XKOLS_TOOLS.BAT and auto view, like for other tweet, The longer you run the tool, the more points you earn.
+- Tip 2: Use your affiate link to share with your friend to earn point.  
+- Tip 3: Go to the GOLDEN TABLE (Most important) to interact with other members on XKOLS NETWORK to enhance engagement point.
+- Q: How can I find my activity history?
+- A: Check: https://xkols.com/network-activities/
 
 **AUTO FEATURES**
 
@@ -44,5 +46,5 @@ A: Check: https://xkols.com/network-activities/
 You can open background task by edit from config file by update: BROWSER_UI_MODE: 1 to 0. (Eg: BROWSER_UI_MODE: 0)
 If from terminal, appear message "PLEASE LOGIN AGAIN", that means your cookies expired. You have to disable backgound task (edit file config.json, change BROWSER_UI_MODE: 1) to login again, after that restart tool more time.
 
-Watch video How to use: https://drive.google.com/drive/folders/13CasG0ro5atqTwz4phimNOrw0O29qylJ
-Telegram & Support: https://t.me/x_connectvn
+- Watch video How to use: https://drive.google.com/drive/folders/13CasG0ro5atqTwz4phimNOrw0O29qylJ
+- Telegram & Support: https://t.me/x_connectvn
