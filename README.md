@@ -6,7 +6,7 @@ TOOL FREE AND DO NOT REQUIRE ANY PERMISSIONs FROM YOUR ACCOUNT.
 
 **HOW IT WORKS**
 - Register an account on XKOLS Network https://xkols.com, each account on XKOLS network must be matched with username account on X (Twitter).
-Eg: Your twitter acccount is: https://twitter.com/exampleusername, so the usename on XKOLS you have to register is: exampleusername.
+Eg: Your twitter acccount is: https://twitter.com/exampleusername, so the usename on XKOLS is: exampleusername.
 - We will exchange all the actions on every X account to points: 1 view = 1 point, 1 like = 1 pont, 1 retweet = 2 ponts, 1 comment = 5 points.
 - When you run bot tool, the Browser will open and auto view, likes, follow all the others accounts from XKOLS network. More time to run bot more points you can earn.
 - When you comment, like, share other tweet you will plus points. Otherwise, You will be deducted points (when other people interacted with your tweet).
@@ -16,13 +16,13 @@ Eg: Your twitter acccount is: https://twitter.com/exampleusername, so the usenam
 - Step 1: Go to link: https://nodejs.org/en/download/ then download NodeJS Application.
 - Step 2: Open downloaded file, double click to start installing NodeJS.
 
-**INSALL APPLICATION**:
+**INSALL APPLICATION**
 - Checkout source code XKols-TwitterAutoBot
 - Step 1: Click INSTALL_CLIENT_APP.bat to install all libraries and wait until finish, the terminal will close automatically.
 - Step 2: Rename file config.json.example to config.json, go to line: X_USERNAME: "X_ACCOUNT", replace your X (Twitter) account X_ACCOUNT by username of X (Twitter). Eg: your twitter acccount is: https://twitter.com/exampleusername, so you have to edit line 08: "X_USERNAME": "exampleusername".
 - Step 3: Click file START_CLIENT_APP.bat to run app, you will see a black screen (terminal), do not stop terminal when running auto bot.
 
-**NOTE**:
+**NOTE**
 - You MUST use English from Twitter account, we do not support others languages. (Login to X account > More > Settings and Support >Accessibility, display and languages > Languages > Display language then select English).
 - For the first time, the application will open Chromnium for you to login Twitter account, you have to login. After loggged in (navigated to home), close Chromnium browser + terminal START_CLIENT_APP.bat then start START_CLIENT_APP.bat again.
 - From 2nd time, you only need to run START_CLIENT_APP.bat, and do not need to re-do any steps above.
