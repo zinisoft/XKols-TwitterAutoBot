@@ -1,0 +1,9 @@
+{
+  "URL": "https://api.xkols.com/v1.0/",
+  "SOCKET_URL": "https://xkols.com/",
+  "MAX_STREAM": 1,
+  "MAX_LINK_RUN_ALL": 2,
+  "DEVICE_TOKEN": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb21wYW55X2NvZGUiOiJ6aW5pc29mdCIsImlhdCI6MTY5OTg1MDE0NSwiZXhwIjoxNzMxMzg2MTQ1fQ.eB6VTLVr7v4YP9srTjeDcjszGjVYBu88sHhXu2-NR4Q",
+  "BROWSER_UI_MODE": 1,
+  "X_USERNAME": "TAI_KHOAN_X_CUA_BAN"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "bot-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.9.0",
+    "javascript-obfuscator": "^4.1.0"
+  },
+  "scripts": {},
+  "dependencies": {
+    "axios": "^1.6.2",
+    "browser-pool": "^3.1.4",
+    "express": "^4.18.2",
+    "fingerprint-generator": "^2.1.43",
+    "fingerprint-injector": "^2.1.43",
+    "fs-extra": "^11.2.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "node-cron": "^3.0.3",
+    "path": "^0.12.7",
+    "socket.io-client": "^4.7.2",
+    "terser": "^5.25.0"
+  }
+}
